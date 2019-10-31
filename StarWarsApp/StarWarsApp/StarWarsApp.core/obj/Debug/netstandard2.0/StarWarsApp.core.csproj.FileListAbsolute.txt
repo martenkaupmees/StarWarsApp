@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\temp\StarWarsApp\StarWarsApp\StarWarsApp.core\bin\Debug\netstandard2.0\StarWarsApp.core.deps.json
+C:\Users\opilane\Desktop\temp\StarWarsApp\StarWarsApp\StarWarsApp.core\bin\Debug\netstandard2.0\StarWarsApp.core.dll
+C:\Users\opilane\Desktop\temp\StarWarsApp\StarWarsApp\StarWarsApp.core\obj\Debug\netstandard2.0\StarWarsApp.core.csprojAssemblyReference.cache
+C:\Users\opilane\Desktop\temp\StarWarsApp\StarWarsApp\StarWarsApp.core\obj\Debug\netstandard2.0\StarWarsApp.core.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\temp\StarWarsApp\StarWarsApp\StarWarsApp.core\obj\Debug\netstandard2.0\StarWarsApp.core.AssemblyInfoInputs.cache
+C:\Users\opilane\Desktop\temp\StarWarsApp\StarWarsApp\StarWarsApp.core\obj\Debug\netstandard2.0\StarWarsApp.core.AssemblyInfo.cs
